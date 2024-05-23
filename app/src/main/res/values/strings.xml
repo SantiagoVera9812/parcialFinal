@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">parcial</string>
+    <string name="placeholder"> Distancia: 0m </string>
+    <string name="borrar"> Borrar</string>
+</resources>
